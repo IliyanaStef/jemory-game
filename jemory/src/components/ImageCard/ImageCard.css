@@ -1,0 +1,10 @@
+.card {
+    height: 230px;
+    width: 260px;
+    position: relative;
+    overflow: hidden;
+}
+
+.card:hover {
+    opacity: 0.35;
+}
